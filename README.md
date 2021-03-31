@@ -1,2 +1,2 @@
 # vpost
-A company internal webiste.
+company internal webiste.
